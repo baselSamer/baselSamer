@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 # 💫 About Me:
 I'm a third-year Computer Science and Engineering student at the German University in Cairo (GUC) with a strong foundation in full-stack web development. I'm passionate about technology and building solutions that solve real-world problems, create value, and make people's lives easier. I enjoy developing applications with a focus on usability, performance, and clean, maintainable code.<br><br>My technical skills include Java, JavaScript/TypeScript, React, Node.js, SQL, HTML/CSS, and Git, along with a solid understanding of Data Structures & Algorithms, Object-Oriented Programming, and System Design fundamentals.<br>I'm always eager to learn, take on new challenges, and grow through hands-on experience while contributing to products that have a meaningful impact on users.
